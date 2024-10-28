@@ -8,7 +8,7 @@
                         <div class="col-lg-3">
                             <a href="https://hoidanit.vn" target="_blank">
                                 <h1 class="text-primary mb-0">Laptopshop</h1>
-                                <p class="text-secondary mb-0">@thuha</p>
+                                <p class="text-secondary mb-0"></p>
                             </a>
                         </div>
                     </div>
